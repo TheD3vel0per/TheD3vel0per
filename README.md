@@ -13,7 +13,7 @@
 <img src="https://github.com/TheD3vel0per/TheD3vel0per/blob/master/Headshot.png" width="250px" height="250px" align="right">  
 
 ## About Me
-I’m Devam, a second year Computer Science and Mathematics student at the University of British Columbia who enjoys doing mathematics and programming!
+I’m Devam, a third year Honours Computer Science and Mathematics student at the University of British Columbia who enjoys doing mathematics and programming!
 
 Ever since I was a toddler, I have been passionate about technology. I want to make the world as passionate about technology as I am by showing people how to use it to solve problems.  I started taking computers apart when I was a toddler, creating websites when I was in primary school, and writing software programs not long after. All of the projects that you will see on this website are from my high school days and beyond.
 
