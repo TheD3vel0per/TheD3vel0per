@@ -10,7 +10,6 @@
 ```                                                                                                                     
 
 <h1> Hey there, I'm Devam!</h1>
-<img src="https://github.com/TheD3vel0per/TheD3vel0per/blob/master/Headshot.png" width="250px" height="250px" align="right">  
 
 ## About Me
 I’m Devam, a third year Honours Computer Science and Mathematics student at the University of British Columbia who enjoys doing mathematics and programming!
